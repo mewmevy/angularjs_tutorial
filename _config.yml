@@ -1,0 +1,3 @@
+name: Mew Mevy, A blogger wanna be
+markdown: kramdown
+permalink: /:year/:month/:day/:title

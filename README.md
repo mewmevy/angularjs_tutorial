@@ -2,7 +2,7 @@
 
 ### Installation
 
-Windows intall
+Windows install
 
 ```sh
 git config --global core.askPass ""
