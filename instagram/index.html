@@ -15,8 +15,9 @@
 function submit() {
 	var client_id = document.getElementById("client_id").value;
 	var redirect_uri = document.getElementById("redirect_uri").value;
-
-	var auth = "https://api.instagram.com/oauth/authorize/?client_id="+client_id+"&redirect_uri="+redirect_uri+"&response_type=code";
+	var auth = "https://api.instagram.com/oauth/authorize/?client_id=" +
+				client_id+"&redirect_uri="+
+				redirect_uri+"&response_type=code";
 
 	window.location.href = auth;
 }
