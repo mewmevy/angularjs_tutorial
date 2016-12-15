@@ -1,20 +1,8 @@
-# mewmevy.github.io
+AngularJS Tutorial 1
+====================
 
-### Installation
+author: [Nick Kaye](http://www.nickkaye.com)
 
-Windows install
+**NOTE:  We’re referencing all of our vendor dependencies (e.g. Bootstrap, jQuery, Angular) at outside URLs.   Therefore, it is necessary to host our site while we’re working on it.  Be sure we are viewing it in a browser with http:// -- not file://**
 
-```sh
-git config --global core.askPass ""
-```
-first repo
-
-```sh
-touch README.md
-touch index.html
-git init
-git add *
-git commit -m "first commit"
-git remote add origin https://github.com/mewmevy/mewmevy.github.io.git
-git push -u origin master
-```
+View the [live demo](http://airpair.github.io/demos/2014/09/T0021-airpair-angularjs-tutorial).
